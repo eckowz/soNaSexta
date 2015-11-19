@@ -2,9 +2,9 @@ public class Anuncio {
 
 	private int idAnuncio;
 
-	private Categoria categoria;
+	private String Conteudo;
 
-	private Anunciante anuncianteAnun;
+	private Categoria[] Categorias;
 
 	public void Anuncio() {
 

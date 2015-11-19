@@ -16,8 +16,4 @@ public class Categoria {
 		return null;
 	}
 
-	public void operation40() {
-
-	}
-
 }

@@ -4,8 +4,6 @@ public class Anunciante extends Usuario {
 
 	private Usuario UAnun;
 
-	private Usuario usuario;
-
 	public void Anunciante() {
 
 	}

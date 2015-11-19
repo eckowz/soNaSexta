@@ -4,8 +4,6 @@ public class Administrador extends Usuario {
 
 	private Usuario UAdmin;
 
-	private Usuario usuario;
-
 	public void Administrador() {
 
 	}
