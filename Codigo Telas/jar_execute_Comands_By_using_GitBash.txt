@@ -1,0 +1,195 @@
+Welcome to Git (version 1.8.0-preview20121022)
+
+
+Run 'git help git' to display the help index.
+Run 'git help <command>' to display help for specific commands.
+
+631410374@SALA604-17 ~
+$ cd C:\Users\631410374\Documents\NetBeansProjects\JavaApplication8\dist
+sh.exe": cd: C:Users631410374DocumentsNetBeansProjectsJavaApplication8dist: No s
+uch file or directory
+
+631410374@SALA604-17 ~
+$ cd \Users\631410374\Documents\NetBeansProjects\JavaApplication8\dist
+sh.exe": cd: Users631410374DocumentsNetBeansProjectsJavaApplication8dist: No suc
+h file or directory
+
+631410374@SALA604-17 ~
+$ cd Documents\NetBeansProjects\JavaApplication8\dist
+sh.exe": cd: DocumentsNetBeansProjectsJavaApplication8dist: No such file or dire
+ctory
+
+631410374@SALA604-17 ~
+$ cd Documents/
+
+631410374@SALA604-17 ~/Documents
+$ pwd
+/c/Users/631410374/Documents
+
+631410374@SALA604-17 ~/Documents
+$ ls
+APLICATIVO PARA OUVIR MUSICA.docx
+Almoxerifado.sql
+AutomaticSolution Software
+Comprovante de matr??cula - Portal Acad??mico SENAC.pdf
+Entregar27-10-2015.docx
+Fukuoka-03-ProjetoPasquali-Modelo-de-Caso-de-Uso.docx
+Fukuoka-06-Kiku-System-Wide-Requirements.docx
+Kiku Project (ESII)
+Meus v??deos
+Minhas imagens
+Minhas m??sicas
+NetBeansProjects
+ProjetoCrudPacientes.zip
+Raise_06-10-2015.sql
+Vision.docx
+aula_02.sql
+aula_02B.sql
+aula_02_C.sql
+controle_estoque.sql
+crud-interface-pacientes.zip
+desktop.ini
+dr Ray
+function++.sql
+git
+inserts.txt
+os 7.txt
+pgadmin.log
+projeto pasquali.asta
+projeto pasquali.asta.bak
+rans.dm,yhd.sql
+trabalho_01.sql
+??rvores.pdf
+
+631410374@SALA604-17 ~/Documents
+$ cd NetBeansProjects/
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects
+$ cd JavaApplication8/
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8
+$ cd dist
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
+$ ls
+JavaApplication8.jar  README.TXT
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
+$ Java
+Uso: java [-options] class [args...]
+           (para executar uma classe)
+   ou  java [-options] -jar jarfile [args...]
+           (para executar um arquivo jar)
+em que as opções incluem:
+    -d32          usar um modelo de dados de 32 bits, se estiver disponível
+    -d64          usar um modelo de dados de 64 bits, se estiver disponível
+    -server       para selecionar a VM "server"
+                  A VM padrão é server.
+
+    -cp <caminho de pesquisa da classe dos diretórios e arquivos zip/jar>
+    -classpath <caminho de pesquisa da classe dos diretórios e arquivos zip/jar>
+
+                  Uma lista separada por ; de diretórios, archives JAR
+                  e archives ZIP nos quais serão procurados os arquivos de class
+e.
+    -D<nome>=<valor>
+                  define uma propriedade do sistema
+    -verbose:[class|gc|jni]
+                  ativa a saída detalhada
+    -version      imprime a versão do produto e sai do programa
+    -version:<valor>
+                  requer a execução da versão especificada
+    -showversion  imprime a versão do produto e continua
+    -jre-restrict-search | -no-jre-restrict-search
+                  inclui/exclui JREs privados do usuário na pesquisa de versão
+    -? -help      imprime esta mensagem de ajuda
+    -X            imprime a ajuda sobre opções não padronizadas
+    -ea[:<nome do pacote>...|:<nome da classe>]
+    -enableassertions[:<nome do pacote>...|:<nome da classe>]
+                  ativa asserções com granularidade especificada
+    -da[:<nome do pacote>...|:<nome da classe>]
+    -disableassertions[:<nome do pacote>...|:<nome da classe>]
+                  desativa asserções com granularidade especificada
+    -esa | -enablesystemassertions
+                  ativa asserções do sistema
+    -dsa | -disablesystemassertions
+                  desativa asserções do sistema
+    -agentlib:<nome da biblioteca>[=<opções>]
+                  carrega a biblioteca de agentes nativa <nome da biblioteca>, p
+or exemplo: -agentlib:hprof
+                  consulte também: -agentlib:jdwp=help e -agentlib:hprof=help
+    -agentpath:<nome do caminho>[=<opções>]
+                  carrega a biblioteca de agentes nativa com base no nome do cam
+inho completo
+    -javaagent:<caminho do arquivo jar>[=<opções>]
+                  carrega o agente da linguagem de programação Java; consulte ja
+va.lang.instrument
+    -splash:<caminho da imagem>
+                  mostra a tela de abertura com a imagem especificada
+Consulte http://www.oracle.com/technetwork/java/javase/documentation/index.html
+para obter mais detalhes.
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
+$ Java -jar
+Error: -jar requires jar file specification
+Uso: java [-options] class [args...]
+           (para executar uma classe)
+   ou  java [-options] -jar jarfile [args...]
+           (para executar um arquivo jar)
+em que as opções incluem:
+    -d32          usar um modelo de dados de 32 bits, se estiver disponível
+    -d64          usar um modelo de dados de 64 bits, se estiver disponível
+    -server       para selecionar a VM "server"
+                  A VM padrão é server.
+
+    -cp <caminho de pesquisa da classe dos diretórios e arquivos zip/jar>
+    -classpath <caminho de pesquisa da classe dos diretórios e arquivos zip/jar>
+
+                  Uma lista separada por ; de diretórios, archives JAR
+                  e archives ZIP nos quais serão procurados os arquivos de class
+e.
+    -D<nome>=<valor>
+                  define uma propriedade do sistema
+    -verbose:[class|gc|jni]
+                  ativa a saída detalhada
+    -version      imprime a versão do produto e sai do programa
+    -version:<valor>
+                  requer a execução da versão especificada
+    -showversion  imprime a versão do produto e continua
+    -jre-restrict-search | -no-jre-restrict-search
+                  inclui/exclui JREs privados do usuário na pesquisa de versão
+    -? -help      imprime esta mensagem de ajuda
+    -X            imprime a ajuda sobre opções não padronizadas
+    -ea[:<nome do pacote>...|:<nome da classe>]
+    -enableassertions[:<nome do pacote>...|:<nome da classe>]
+                  ativa asserções com granularidade especificada
+    -da[:<nome do pacote>...|:<nome da classe>]
+    -disableassertions[:<nome do pacote>...|:<nome da classe>]
+                  desativa asserções com granularidade especificada
+    -esa | -enablesystemassertions
+                  ativa asserções do sistema
+    -dsa | -disablesystemassertions
+                  desativa asserções do sistema
+    -agentlib:<nome da biblioteca>[=<opções>]
+                  carrega a biblioteca de agentes nativa <nome da biblioteca>, p
+or exemplo: -agentlib:hprof
+                  consulte também: -agentlib:jdwp=help e -agentlib:hprof=help
+    -agentpath:<nome do caminho>[=<opções>]
+                  carrega a biblioteca de agentes nativa com base no nome do cam
+inho completo
+    -javaagent:<caminho do arquivo jar>[=<opções>]
+                  carrega o agente da linguagem de programação Java; consulte ja
+va.lang.instrument
+    -splash:<caminho da imagem>
+                  mostra a tela de abertura com a imagem especificada
+Consulte http://www.oracle.com/technetwork/java/javase/documentation/index.html
+para obter mais detalhes.
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
+$ java -jar JavaApplication8.jar
+Erro: Não foi possível localizar nem carregar a classe principal javaapplication
+8.JavaApplication8
+
+
+631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
+$ java -cp JavaApplication8.jar  javaapplication8.NewJFrame
