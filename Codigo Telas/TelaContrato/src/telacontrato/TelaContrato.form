@@ -70,7 +70,6 @@
                               <Component id="jTextField5" min="-2" pref="87" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <EmptySpace max="32767" attributes="0"/>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="112" max="-2" attributes="0"/>
@@ -174,7 +173,7 @@
             <Property name="columns" type="int" value="20"/>
             <Property name="lineWrap" type="boolean" value="true"/>
             <Property name="rows" type="int" value="5"/>
-            <Property name="text" type="java.lang.String" value="Termos de Servi&#xe7;o do Twitch&#xa;&#xa;&#xda;ltima modifica&#xe7;&#xe3;o: 27/11/2015 (visualizar vers&#xf5;es arquivadas)&#xa;&#xa;Bem-vindo ao Twitch!&#xa;&#xa;Agradecemos por usar nossos produtos e servi&#xe7;os (&#x201c;Servi&#xe7;os&#x201d;). Os Servi&#xe7;os ser&#xe3;o fornecidos pelo Twitch Inc. (&#x201c;Twitch&#x201d;), localizado em Rua Yamato 45, Rio Grande do Sul, Porto Alegre, Brasil.&#xa;&#xa;Ao usar nossos Servi&#xe7;os, voc&#xea; est&#xe1; concordando com estes termos. Leia-os com aten&#xe7;&#xe3;o.&#xa;&#xa;Nossos Servi&#xe7;os s&#xe3;o muito diversos, portanto, &#xe0;s vezes, podem aplicar-se termos adicionais ou exig&#xea;ncias de produtos (inclusive exig&#xea;ncias de idade). Os termos adicionais estar&#xe3;o dispon&#xed;veis com os Servi&#xe7;os relevantes e esses termos adicionais se tornar&#xe3;o parte de nosso contrato com voc&#xea;, caso voc&#xea; use esses Servi&#xe7;os.&#xa;"/>
+            <Property name="text" type="java.lang.String" value="Termos de Servi&#xe7;o do Twitch&#xa;&#xa;&#xda;ltima modifica&#xe7;&#xe3;o: 27/11/2015 (visualizar vers&#xf5;es arquivadas)&#xa;&#xa;Bem-vindo ao Twitch!&#xa;Agradecemos por usar nossos produtos e servi&#xe7;os (&#x201c;Servi&#xe7;os&#x201d;). Os Servi&#xe7;os ser&#xe3;o fornecidos pelo Twitch Inc. (&#x201c;Twitch&#x201d;), localizado em Rua Yamato 45, Rio Grande do Sul, Porto Alegre, Brasil.&#xa;&#xa;Ao usar nossos Servi&#xe7;os, voc&#xea; est&#xe1; concordando com estes termos. Leia-os com aten&#xe7;&#xe3;o.&#xa;&#xa;Nossos Servi&#xe7;os s&#xe3;o muito diversos, portanto, &#xe0;s vezes, podem aplicar-se termos adicionais ou exig&#xea;ncias de produtos (inclusive exig&#xea;ncias de idade). Os termos adicionais estar&#xe3;o dispon&#xed;veis com os Servi&#xe7;os relevantes e esses termos adicionais se tornar&#xe3;o parte de nosso contrato com voc&#xea;, caso voc&#xea; use esses Servi&#xe7;os.&#xa;"/>
             <Property name="wrapStyleWord" type="boolean" value="true"/>
           </Properties>
         </Component>

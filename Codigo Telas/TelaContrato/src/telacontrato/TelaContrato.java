@@ -71,7 +71,7 @@ public class TelaContrato extends javax.swing.JFrame {
         jTextArea1.setColumns(20);
         jTextArea1.setLineWrap(true);
         jTextArea1.setRows(5);
-        jTextArea1.setText("Termos de Serviço do Twitch\n\nÚltima modificação: 27/11/2015 (visualizar versões arquivadas)\n\nBem-vindo ao Twitch!\n\nAgradecemos por usar nossos produtos e serviços (“Serviços”). Os Serviços serão fornecidos pelo Twitch Inc. (“Twitch”), localizado em Rua Yamato 45, Rio Grande do Sul, Porto Alegre, Brasil.\n\nAo usar nossos Serviços, você está concordando com estes termos. Leia-os com atenção.\n\nNossos Serviços são muito diversos, portanto, às vezes, podem aplicar-se termos adicionais ou exigências de produtos (inclusive exigências de idade). Os termos adicionais estarão disponíveis com os Serviços relevantes e esses termos adicionais se tornarão parte de nosso contrato com você, caso você use esses Serviços.\n");
+        jTextArea1.setText("Termos de Serviço do Twitch\n\nÚltima modificação: 27/11/2015 (visualizar versões arquivadas)\n\nBem-vindo ao Twitch!\nAgradecemos por usar nossos produtos e serviços (“Serviços”). Os Serviços serão fornecidos pelo Twitch Inc. (“Twitch”), localizado em Rua Yamato 45, Rio Grande do Sul, Porto Alegre, Brasil.\n\nAo usar nossos Serviços, você está concordando com estes termos. Leia-os com atenção.\n\nNossos Serviços são muito diversos, portanto, às vezes, podem aplicar-se termos adicionais ou exigências de produtos (inclusive exigências de idade). Os termos adicionais estarão disponíveis com os Serviços relevantes e esses termos adicionais se tornarão parte de nosso contrato com você, caso você use esses Serviços.\n");
         jTextArea1.setWrapStyleWord(true);
         jScrollPane1.setViewportView(jTextArea1);
 
@@ -150,8 +150,7 @@ public class TelaContrato extends javax.swing.JFrame {
                             .addGroup(layout.createSequentialGroup()
                                 .addComponent(jLabel6)
                                 .addGap(18, 18, 18)
-                                .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                                .addComponent(jTextField5, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE))))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(112, 112, 112)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
