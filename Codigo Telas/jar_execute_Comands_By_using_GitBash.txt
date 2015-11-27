@@ -4,20 +4,6 @@ Welcome to Git (version 1.8.0-preview20121022)
 Run 'git help git' to display the help index.
 Run 'git help <command>' to display help for specific commands.
 
-631410374@SALA604-17 ~
-$ cd C:\Users\631410374\Documents\NetBeansProjects\JavaApplication8\dist
-sh.exe": cd: C:Users631410374DocumentsNetBeansProjectsJavaApplication8dist: No s
-uch file or directory
-
-631410374@SALA604-17 ~
-$ cd \Users\631410374\Documents\NetBeansProjects\JavaApplication8\dist
-sh.exe": cd: Users631410374DocumentsNetBeansProjectsJavaApplication8dist: No suc
-h file or directory
-
-631410374@SALA604-17 ~
-$ cd Documents\NetBeansProjects\JavaApplication8\dist
-sh.exe": cd: DocumentsNetBeansProjectsJavaApplication8dist: No such file or dire
-ctory
 
 631410374@SALA604-17 ~
 $ cd Documents/
@@ -184,11 +170,6 @@ va.lang.instrument
                   mostra a tela de abertura com a imagem especificada
 Consulte http://www.oracle.com/technetwork/java/javase/documentation/index.html
 para obter mais detalhes.
-
-631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
-$ java -jar JavaApplication8.jar
-Erro: Não foi possível localizar nem carregar a classe principal javaapplication
-8.JavaApplication8
 
 
 631410374@SALA604-17 ~/Documents/NetBeansProjects/JavaApplication8/dist
